@@ -1,5 +1,5 @@
 # Login Application
-The Login Application is a straightforward application designed to authenticate users by validating their username and password.
+The Login App is a straightforward application designed to authenticate users by validating their username and password.
 - The UserModel manages user data and authentication logic, the LoginActivity handles the user interface elements related to login functionality, and the LoginPresenter coordinates communication between the View and Model.
 
 ## MVP Architecture
